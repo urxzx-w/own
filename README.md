@@ -4,14 +4,14 @@
 </p>
 
 
-## + - added - removed = improved
-> +  Added UI Discord
-> +  Added clock injection script
-> +  Added some functions
+## + - added - removed = improved ✨
+> +  Added UI Discord ✨
+> +  Added clock injection script ✨
+> +  Added some functions ✨
 
 ## Author
 
-👤 **urxzx**
+👤 **urxzx** ✨
 
 * Github: [@urxzx-w](https://github.com/urxzx-w)
 
