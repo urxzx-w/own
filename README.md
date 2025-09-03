@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img width="700" src="" alt="cli output"/>
+  <img width="700" src="https://raw.githubusercontent.com/urxzx-w/own/refs/heads/main/noFilter.png" alt="cli output"/>
 </p>
 
 ## + - added - removed = improved
