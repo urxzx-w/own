@@ -4,8 +4,9 @@
 </p>
 
 ## + - added - removed = improved
-> + 1. Added UI Discord
-> + 2. Added clock
+> +  Added UI Discord
+> +  Added clock injection script
+> +  Added some functions
 
 ## Author
 
