@@ -3,7 +3,9 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> nah
+## + - added - removed = improved
+> + 1. Added UI Discord
+> + 2. Added clock
 
 ## Author
 
